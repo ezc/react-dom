@@ -57,5 +57,8 @@ console.log React.renderComponentToString Hello(name: 'World')
 
 Now, I know that not everybody works with CoffeeScript, so [here’s the snippet in JavaScript](https://gist.github.com/EtienneLem/3c52167b2ccb6e180132). You can also [see the examples](/examples/index.html), which are in JavaScript.
 
+## Usage
+react-dom is available via `npm install react-dom` or `bower install react-dom`. AMD, CommonJS and broswer globals are supported.
+
 ## Tests
 Run the `npm test` task.
