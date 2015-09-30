@@ -9,7 +9,7 @@
 (function (root, factory) {
   // AMD
   if (typeof define === 'function' && define.amd) {
-    define(['React'], factory)
+    define(['react'], factory)
 
   // Node.js or CommonJS
   } else if (typeof exports !== 'undefined') {
